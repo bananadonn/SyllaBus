@@ -1,0 +1,25 @@
+CS 101 – Introduction to Programming
+Fall 2026 · MWF 10:00–10:50 AM · Room 204
+Instructor: Dr. Rivera · Office hours: Tue 2–4 PM
+
+Classes begin Monday, August 24, 2026. The last day of class is Friday, December 11, 2026.
+
+Grading: Homework 30%, Quizzes 10%, Midterm 25%, Project 15%, Final 20%.
+Quizzes are given every Friday at the start of lecture (lowest two dropped).
+
+Schedule (subject to change)
+Week | Date   | Topic                  | Due
+1    | Aug 24 | Course intro           |
+2    | Aug 31 | Variables & types      | HW 1 due Sept. 4 by 11:59 PM
+4    | Sep 14 | Conditionals           | HW 2 due Sep 18 by 11:59 PM
+6    | Sep 28 | Functions              | HW 3 due 10/2 by 11:59 PM
+8    | Oct 12 | Review                 | Midterm Exam – Wednesday, October 14, in class
+10   | Oct 26 | Lists & dictionaries   | Project proposal due Thursday of Week 10
+12   | Nov 9  | Recursion              | HW 4 due Nov 13
+13   | Nov 16 | Sorting                |
+14   | Nov 23 | Thanksgiving Break: Nov 25–27 (no class)
+15   | Nov 30 | Final project work     | Final project due Dec 4 at 5 PM
+16   | Dec 7  | Wrap-up                |
+
+Labor Day, September 7: no class.
+Final Exam: Tuesday, December 15, 2:00–4:00 PM, Room 204.
